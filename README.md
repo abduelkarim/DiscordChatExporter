@@ -16,7 +16,7 @@ It works with direct messages, group messages, and server channels, and supports
 ❓ **If you have questions or issues, please refer to the [wiki](https://github.com/Tyrrrz/DiscordChatExporter/wiki)**
 
 ## Terms of use
-
+ 
 By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
 
 - You **condemn Russia and its military aggression against Ukraine**
