@@ -33,7 +33,7 @@ The following table lists all available download options:
 
 <table>
   <thead>
-    <tr> 
+    <tr>  
       <th></th>
       <th>Downloads</th>
       <th>Supported OS</th>
